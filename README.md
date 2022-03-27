@@ -11,7 +11,7 @@ In the beginning, l_b will be empty and l_a will contain a certain amount of pos
 The objective of the game is to sort l_a.
 
 In order to accomplish this, you will only have access to the following operation:
->- **sa:** swap the first two elements of l_a (nothing will happen if there aren’t enough elements).
+- **sa:** swap the first two elements of l_a (nothing will happen if there aren’t enough elements).
 - **sb:** swap the first two elements of l_b (nothing will happen if there aren’t enough elements).
 - **sc:** sa and sb at the same time.
 - **pa:** take the first element from l_b and move it to the first position on the l_a list (nothing will happen if l_b is empty).
